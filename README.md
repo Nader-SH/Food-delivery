@@ -20,11 +20,10 @@
 - Food delivery website that provides its customers with good hearty food, drinks, and dessert, user-friendly app allows users to order food quickly and easily at their own convenience, where the user can add them favorite food to cart and do the payment method easily.
 
 ## The wireframes
-
-![image1](./imagesForReadmeFile/1.jpg)
-![image2](./imagesForReadmeFile/2.jpg)
-![image3](./imagesForReadmeFile/3.jpg)
-![image4](./imagesForReadmeFile/4.jpg)
+![4](https://user-images.githubusercontent.com/64221231/166828173-55ae1068-7015-419f-bc5a-cf43d00c841f.jpg)
+![3](https://user-images.githubusercontent.com/64221231/166828183-eeb046e9-6976-4996-9610-533d5598d205.jpg)
+![2](https://user-images.githubusercontent.com/64221231/166828194-9f35ae78-2f4d-4e9a-b6bd-b41a03b9e97b.jpg)
+![1](https://user-images.githubusercontent.com/64221231/166828207-8485c643-fe27-4a0d-ad2c-8f96c1fabedb.jpg)
 
 ## User Journey
 
